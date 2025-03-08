@@ -20,6 +20,8 @@ public class Exercicio {
 		double altura = 1.78;
 		int ano = 2025;
 
+		String sobreNome = "Queiroz";
+		
 		System.out.printf("Meu nome é %s, e meu peso é %.2f "
 				+ "e minha altura é %.2f. "
 				+ "%nE estamos no ano de %d.", nome, peso, altura, ano);
